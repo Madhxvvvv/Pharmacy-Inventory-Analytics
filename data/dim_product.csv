@@ -1,0 +1,21 @@
+product_id,product_name,category,manufacturer,unit_cost,unit_price,shelf_life_days,lead_time_days
+P001,Paracetamol 650mg Tablets (Strip of 15),OTC,Choudhury Pharmaceuticals Ltd,18.5,24.75,730,7
+P002,Cetirizine 10mg Tablets (Strip of 10),OTC,Chaudry Pharmaceuticals Ltd,11.0,15.64,730,7
+P003,Ambroxol Cough Syrup 100ml,OTC,Choudhury Pharmaceuticals Ltd,52.0,65.98,270,10
+P004,Dextromethorphan Cough Syrup 100ml,OTC,Dewan Biotech Ltd,61.0,88.15,240,10
+P005,ORS Electrolyte Powder 21g (Pack of 10),OTC,Dewan Biotech Ltd,38.0,53.47,540,8
+P006,Antacid Mint Gel 170ml,OTC,Chaudry Pharmaceuticals Ltd,74.0,94.4,365,9
+P007,Amoxicillin 500mg Capsules (Strip of 10),Rx,Chaudry Pharmaceuticals Ltd,48.0,67.74,730,12
+P008,Azithromycin 500mg Tablets (Strip of 3),Rx,Konda Laboratories Ltd,66.0,104.15,730,12
+P009,Metformin 500mg Tablets (Strip of 20),Rx,Chaudry Pharmaceuticals Ltd,22.0,34.03,730,14
+P010,Amlodipine 5mg Tablets (Strip of 15),Rx,Dewan Biotech Ltd,19.0,27.23,730,14
+P011,Atorvastatin 10mg Tablets (Strip of 15),Rx,Konda Laboratories Ltd,58.0,85.05,730,14
+P012,Pantoprazole 40mg Tablets (Strip of 15),Rx,Bakshi Lifesciences Ltd,45.0,59.36,730,12
+P013,Telmisartan 40mg Tablets (Strip of 15),Rx,Chaudry Pharmaceuticals Ltd,62.0,92.35,730,14
+P014,Montelukast 10mg Tablets (Strip of 10),Rx,Chaudry Pharmaceuticals Ltd,84.0,128.3,540,12
+P015,Ondansetron 4mg Tablets (Strip of 10),Rx,Dewan Biotech Ltd,36.0,57.28,730,12
+P016,Vitamin D3 60000 IU Capsules (Pack of 4),Supplement,Maharaj Healthcare Ltd,88.0,154.64,730,15
+P017,Probiotic Lactobacillus Capsules (Strip of 10),Supplement,Dewan Biotech Ltd,95.0,140.4,180,10
+P018,Multivitamin with Minerals Tablets (Strip of 15),Supplement,Chaudry Pharmaceuticals Ltd,72.0,114.24,545,15
+P019,Omega-3 Fish Oil 1000mg Capsules (Bottle of 30),Supplement,Konda Laboratories Ltd,210.0,306.96,450,21
+P020,Zinc + Vitamin C Chewable Tablets (Strip of 15),Supplement,Choudhury Pharmaceuticals Ltd,42.0,70.28,365,10

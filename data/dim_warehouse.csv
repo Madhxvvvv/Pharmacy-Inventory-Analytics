@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,city,region
+W01,Delhi Central Distribution Centre,Delhi,North
+W02,Mumbai Bhiwandi Distribution Centre,Mumbai,West
+W03,Bengaluru Hoskote Distribution Centre,Bengaluru,South
+W04,Kolkata Dankuni Distribution Centre,Kolkata,East
